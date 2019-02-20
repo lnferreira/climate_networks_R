@@ -1,8 +1,6 @@
 ## The Influence of Time Series Distance Functions on Climate Networks<br>
 Leonardo N. Ferreira, Nicole C. R. Ferreira, Maria Livia L. M. Gava, Liang Zhao and Elbert E. N. Macau
 
-:earth_americas:      :earth_africa:      :earth_asia:      :earth_americas:      :earth_africa:      :earth_asia:
-
 ![Climate networks](figs/climate_nets.jpg)
 
 In this page you find the code used in the paper.  
@@ -35,3 +33,5 @@ If you have questions or sugestions, send us an email:
 **Zhao Liang**<br>
 [zhao@usp.br](zhao@usp.br)<br>
 [dcm.ffclrp.usp.br/~zhao/](dcm.ffclrp.usp.br/~zhao/)
+
+:earth_americas:nbsp;nbsp;nbsp;nbsp;:earth_africa:nbsp;nbsp;nbsp;nbsp;:earth_asia:nbsp;nbsp;nbsp;nbsp;:earth_americas:nbsp;nbsp;nbsp;nbsp;:earth_africa:nbsp;nbsp;nbsp;nbsp;:earth_asia:
