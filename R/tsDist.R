@@ -18,18 +18,15 @@ library("DescTools")
 library("compiler")
 library("scales")
 library("parallel")
-library("igraph")
-
-NUM_CORES = max(1, detectCores() - 1)
 
 # ==============================================================================
-# Parallel Dist with mcmapply
+# Calculates the distance between all pairs of time series 
 # ==============================================================================
-dist.parallel <- function(tsList, distFunc=tsdiss.euclidean, cores=NUM_CORES, outputFilePath) {
+dist.parallel <- function(tsList, distFunc=tsdiss.euclidean, cores=2, outputFilePath) {
     distFuncCompiled <- cmpfun(distFunc)
     tsListLength = length(tsList)
     combs = combn(tsListLength, 2)
-    d = mcmapply(dist.parallel2.compute, x=combs[1,], y=combs[2,], 
+    d = mcmapply(dist.parallel.compute, x=combs[1,], y=combs[2,], 
                  MoreArgs=list(tsList=tsList, distFunc=distFuncCompiled), mc.cores=cores)
     dist = matrix(0, tsListLength, tsListLength)
     dist[lower.tri(dist)] = d
@@ -41,8 +38,8 @@ dist.parallel <- function(tsList, distFunc=tsdiss.euclidean, cores=NUM_CORES, ou
     dist
 }
 
-dist.parallel2.compute <- function(x, y, tsList, distFunc) { 
-    distFunc(tsList[], tsList[[y]])
+dist.parallel.compute <- function(x, y, tsList, distFunc) { 
+    distFunc(tsList[[x]], tsList[[y]])
 }
 
 # ==============================================================================
