@@ -34,4 +34,4 @@ If you have questions or sugestions, send us an email:
 [zhao@usp.br](zhao@usp.br)<br>
 [dcm.ffclrp.usp.br/~zhao/](dcm.ffclrp.usp.br/~zhao/)
 
-:earth_americas:nbsp;nbsp;nbsp;nbsp;:earth_africa:nbsp;nbsp;nbsp;nbsp;:earth_asia:nbsp;nbsp;nbsp;nbsp;:earth_americas:nbsp;nbsp;nbsp;nbsp;:earth_africa:nbsp;nbsp;nbsp;nbsp;:earth_asia:
+:earth_americas::earth_africa::earth_asia::earth_americas::earth_africa::earth_asia:
