@@ -13,8 +13,14 @@ All the algorithms and experiments used in this paper were implemented using [R]
 * R/
    * tsDist.R 
       - Calculates distance between a set of time series
-   * run.R
-      - Example of how to use the code      
+   * climate_networks.R
+      - Create creates
+   * run_example.R  
+   	  - Run an example of network creation
+
+### License
+   	 
+![GNU Lesser General Public License v3.0](LICENSE)
 
 ### Contact
 
