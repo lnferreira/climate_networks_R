@@ -33,5 +33,3 @@ If you have questions or sugestions, send us an email:
 **Zhao Liang**<br>
 [zhao@usp.br](zhao@usp.br)<br>
 [dcm.ffclrp.usp.br/~zhao/](dcm.ffclrp.usp.br/~zhao/)
-
-:earth_americas::earth_africa::earth_asia::earth_americas::earth_africa::earth_asia:
