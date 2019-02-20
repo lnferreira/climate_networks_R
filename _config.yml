@@ -1,1 +1,6 @@
+
+title: Climate networks in R
+description: Code used in the paper "The Influence of Time Series Distance Functions on Climate Networks"
+google_analytics: UA-18917131-1
+show_downloads: true
 theme: jekyll-theme-minimal
