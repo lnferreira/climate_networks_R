@@ -1,5 +1,5 @@
 ## The Influence of Time Series Distance Functions on Climate Networks<br>
-Leonardo N. Ferreira, Nicole C. R. Ferreira, Elbert E. N. Macau, and Reik V.Donner
+Leonardo N. Ferreira, Nicole C. R. Ferreira, Elbert E. N. Macau, and Reik V. Donner
 
 ![Climate networks](figs/climate_nets.jpg)
 
