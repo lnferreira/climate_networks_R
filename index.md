@@ -1,5 +1,5 @@
 ## The Influence of Time Series Distance Functions on Climate Networks<br>
-Leonardo N. Ferreira, Nicole C. R. Ferreira, Maria Livia L. M. Gava, Liang Zhao and Elbert E. N. Macau
+Leonardo N. Ferreira, Nicole C. R. Ferreira, Elbert E. N. Macau, and Reik V.Donner
 
 ![Climate networks](figs/climate_nets.jpg)
 
@@ -29,7 +29,3 @@ If you have questions or sugestions, send us an email:
 **Leonardo N. Ferreira**<br>
 [ferreira@leonardonascimento.com](ferreira@leonardonascimento.com)<br>
 [www.leonardonascimento.com](www.leonardonascimento.com)
-
-**Zhao Liang**<br>
-[zhao@usp.br](zhao@usp.br)<br>
-[dcm.ffclrp.usp.br/~zhao/](dcm.ffclrp.usp.br/~zhao/)
